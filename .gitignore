@@ -1,0 +1,15 @@
+# Flutter 
+.dart_tool/ 
+build/ 
+.flutter-plugins 
+.flutter-plugins-dependencies 
+.packages 
+.idea/ 
+.vscode/ 
+.cache/ 
+.codex/ 
+.gemini/ 
+*.log 
+.firebase/ 
+firebase-debug.log 
+firestore-debug.log
